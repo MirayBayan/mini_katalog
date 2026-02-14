@@ -47,7 +47,7 @@ basit bir ürün listeleme – sepet mantığını kavramaktır.
 <div style="display:flex; gap:20px;">
   <img src="assets/readme_images/HomePage.png" width="250" />
   <img src="assets/readme_images/favorites.png" width="250" />
-  <img src="assets/readme_images/favorites2.png" width="250" />
+  <img src="assets/readme_images/favroites2.png" width="250" />
   <img src="assets/readme_images/sepet.png" width="250" />
   <img src="assets/readme_images/sepet2.png" width="250" />
 </div>
